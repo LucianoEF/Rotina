@@ -1,0 +1,37 @@
+Inicio
+Acordar com o despertador
+Abrir os olhos
+Desligar o despertador
+Tirar a coberta sobre meu corpo
+levantar da cama
+Sair do quarto
+Ir até o banheiro
+entrar no banheiro
+inicio da higiene pessoal
+    necessidades pessoais
+    escovar os dentes
+    tomar banho
+Fim da higiene pessoal
+Sair do banheiro
+Se tiver louça para levar
+    lavar louça
+Colocar a água esquentar para fazer o café
+Enquanto a água esquenta 
+    entro no quarto
+    me visto para caminhar até o trabalho
+    saio do quarto
+Faço o café
+Coloco o café na garrafa térmica
+Pego minha mochila
+Coloco a garrafa de café dentro da mochila
+Pego a chave de casa
+Abro a porta
+Saio de casa
+Caminho até meu trabalho
+Entro no vestiário
+Me troco
+Saio do vestiário
+Entro na empresa
+Bato o cartão ponto e entrego minha mochila na portaria
+Enquanto trabalho tomo meu café
+Fim
